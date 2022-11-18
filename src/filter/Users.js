@@ -1,0 +1,70 @@
+export const Users = [
+
+    {
+        "id":1,
+        "first_name":"Radha",
+        "last_name":"Kumari",
+        "email":"radha@gmail.com",
+        "gender":"Female",
+    },
+    {
+        "id":2,
+        "first_name":"Ram",
+        "last_name":"Singh",
+        "email":"ram@gmail.com",
+        "gender":"male",
+    },
+    {
+        "id":3,
+        "first_name":"Shyam",
+        "last_name":"Patil",
+        "email":"shyam@gmail.com",
+        "gender":"male",
+    },
+    {
+        "id":4,
+        "first_name":"Radha",
+        "last_name":"Kumari",
+        "email":"radha@gmail.com",
+        "gender":"Female",
+    },
+    {
+        "id":5,
+        "first_name":"Ram",
+        "last_name":"Singh",
+        "email":"ram@gmail.com",
+        "gender":"male",
+    },
+    {
+        "id":6,
+        "first_name":"Shyam",
+        "last_name":"Patil",
+        "email":"shyam@gmail.com",
+        "gender":"male",
+    },
+    {
+        "id":7,
+        "first_name":"Radha",
+        "last_name":"Kumari",
+        "email":"radha@gmail.com",
+        "gender":"Female",
+    },
+    {
+        "id":8,
+        "first_name":"Ram",
+        "last_name":"Singh",
+        "email":"ram@gmail.com",
+        "gender":"male",
+    },
+    {
+        "id":9,
+        "first_name":"Shyam",
+        "last_name":"Patil",
+        "email":"shyam@gmail.com",
+        "gender":"male",
+    }
+
+]
+
+
+
